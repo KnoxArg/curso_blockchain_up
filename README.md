@@ -1,6 +1,6 @@
 # Ejercicio Final
 
-Una compañía organiza un hackaton donde financia con 10 ETH ideas a llevar a cabo. 
+Una compañía organiza un hackaton donde financia con ETH ideas a llevar a cabo. 
 
 La compañia cuenta con un jurado de 4 personas y para aprobar el financiamiento, la idea debe contrar con un 75% de aprobación (3 de 4).
 
