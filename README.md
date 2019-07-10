@@ -14,3 +14,4 @@ Se hizo un deploy en la siguiente dirección:
 
 https://rinkeby.etherscan.io/tx/0xed0accfe90992a971cd16aaf1ef883ab64df0464f8365586696796512d64c5af
 
+Los parámetros del constructor necesitaban estar ABI-Encoded para poder verificar el código fuente asi que se usó esto  https://abi.hashex.org/
