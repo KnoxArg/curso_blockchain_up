@@ -10,3 +10,7 @@ Luego se cargan las ideas disponibles, la dirección del beneficiario y los ETH 
 
 Cuando las aprobaciones lleguen al 75%, los fondos de la idea se envían al beneficiario.
 
+Se hizo un deploy en la siguiente dirección: 
+
+https://rinkeby.etherscan.io/tx/0xed0accfe90992a971cd16aaf1ef883ab64df0464f8365586696796512d64c5af
+
